@@ -1,0 +1,19 @@
+# traffic-volume(DL) - 교통량 예측 (딥러닝)
+numpy
+pandas
+scikit-learn
+tensorflow
+xgboost
+joblib
+
+# 데이터 수집 (서울 열린데이터)
+requests
+python-dotenv
+
+# 앱 (Streamlit) 및 지도
+streamlit
+pyproj
+
+# 시각화/보고 (선택)
+matplotlib
+seaborn

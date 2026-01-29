@@ -1,0 +1,14 @@
+{
+  "final_model_name": "XGB_w168",
+  "artifact_path": "C:\\NEW\\traffic-volume\\models\\XGB_w168_sid_wx.joblib",
+  "selected_by": "RMSE",
+  "window": 168,
+  "horizon": 1,
+  "metrics": {
+    "MAE": 143.08401489257812,
+    "RMSE": 266.3765690943931,
+    "MAPE": 543295936.0
+  },
+  "source_metrics_file": "metrics_w168.csv",
+  "selected_at": "2026-01-06T19:21:15"
+}
